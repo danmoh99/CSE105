@@ -1,1 +1,2 @@
 # CSE105
+This is an HTTP server-client system that uses multithreading as well as an LRU cache and a kvs store. Functionality includes pushing to server, retrieving from server, and aliasing file names in server.
